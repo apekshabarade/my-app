@@ -61,3 +61,7 @@ CloudWatch monitors:
 - EC2 instance status check failure
 
 Email notifications sent on pipeline failure via AWS SNS.
+
+## 🌐 My Portfolio
+
+🔗 [View My DevOps Portfolio](https://sites.google.com/kletech.ac.in/devops-portfolio1/home)
